@@ -50,5 +50,110 @@
             "about": "LALALALALALALALLALALA",
             "lastTime": true
         }
+    ],
+    "conversations":[
+        {
+            "idUser1": 1,
+            "idUser2": 2,
+            "messages":[
+                {
+                    "sentBy": 1,
+                    "date": "11/05/23",
+                    "hour": "09:27 am",
+                    "message": "Hola, como estas?",
+                    "flag": true
+                },
+                {
+                    "sentBy": 2,
+                    "date": "12/05/23",
+                    "hour": "09:37 am",
+                    "message": "Hola, bien y tu?",
+                    "flag": true
+                },
+                {
+                    "sentBy": 1,
+                    "date": "12/05/23",
+                    "hour": "3:12 pm",
+                    "message": "Me puedes mandar el documento porfa?",
+                    "flag": true
+                },
+                {
+                    "sentBy": 2,
+                    "date": "12/05/23",
+                    "hour": "3:22 pm",
+                    "message": "Claro que si, un momento",
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "idUser1": 1,
+            "idUser2": 4,
+            "messages":[
+                {
+                    "sentBy": 1,
+                    "date": "01/02/23",
+                    "hour": "10:59 am",
+                    "message": "Buen día, puedo hacer la reserva para hoy?",
+                    "flag": true
+                },
+                {
+                    "sentBy": 4,
+                    "date": "02/02/23",
+                    "hour": "08:15 am",
+                    "message": "Buenas tardes. Con mucho gusto tenemos disponibilidad para mañana a las 4:00pm.",
+                    "flag": true
+                },
+                {
+                    "sentBy": 4,
+                    "date": "02/02/23",
+                    "hour": "08:15 am",
+                    "message": "También encuentra nuestra carta. ( Ya que es importante con 1 día de anticipación reservar y confirmar los tiers que cada invitado va a elegir, ya que es un menú que nuestro chef debe preparar con antelación)",
+                    "flag": true
+                },
+                {
+                    "sentBy": 1,
+                    "date": "02/02/23",
+                    "hour": "09:32 am",
+                    "message": "Muchas gracias",
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "idUser1": 1,
+            "idUser2": 5,
+            "messages":[
+                {
+                    "sentBy": 1,
+                    "date": "15/06/23",
+                    "hour": "09:27 am",
+                    "message": "Holiiii",
+                    "flag": true
+                },
+                {
+                    "sentBy": 5,
+                    "date": "15/06/23",
+                    "hour": "09:37 am",
+                    "message": "Juanito tiempo sin saber de ti",
+                    "flag": true
+                },
+                {
+                    "sentBy": 1,
+                    "date": "15/06/23",
+                    "hour": "09:40 am",
+                    "message": "Donde andas?",
+                    "flag": true
+                },
+                {
+                    "sentBy": 5,
+                    "date": "15/06/23",
+                    "hour": "09:55 am",
+                    "message": "Cerca a la U, vienes por aqui?",
+                    "flag": false
+                }
+            ]
+        }
     ]
 }
+
