@@ -1,0 +1,54 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "nombre": "Juan",
+            "celular": 3111111111,
+            "password": 123,
+            "imgProfile": "https://falabella.scene7.com/is/image/FalabellaCO/46159232_1?wid=800&hei=800&qlt=70",
+            "flag": false,
+            "about": "Have a beautiful day",
+            "lastTime": true
+        },
+        {
+            "id": 2,
+            "nombre": "Sarah",
+            "celular": 3222222222,
+            "password": 234,
+            "imgProfile": "https://falabella.scene7.com/is/image/FalabellaCO/882753908_1?wid=1500&hei=1500&qlt=70",
+            "flag": true,
+            "about": "New start",
+            "lastTime": true
+        },
+        {
+            "id": 3,
+            "nombre": "Camila",
+            "celular": 3333333333,
+            "password": 345,
+            "imgProfile": "https://falabella.scene7.com/is/image/FalabellaCO/882671292_1?wid=1500&hei=1500&qlt=70",
+            "flag": false,
+            "about": "Big dreams",
+            "lastTime": true
+        },
+        {
+            "id": 4,
+            "nombre": "Sophia",
+            "celular": 3444444444,
+            "password": 456,
+            "imgProfile": "https://falabella.scene7.com/is/image/FalabellaCO/61898023_1?wid=1500&hei=1500&qlt=70",
+            "flag": true,
+            "about": "Have a beutifull day",
+            "lastTime": true
+        },
+        {
+            "id": 5,
+            "nombre": "Lucas",
+            "celular": 3555555555,
+            "password": 567,
+            "profilePhoto": "https://falabella.scene7.com/is/image/FalabellaCO/62556334_1?wid=1500&hei=1500&qlt=70",
+            "flag": true,
+            "about": "LALALALALALALALLALALA",
+            "lastTime": true
+        }
+    ]
+}
