@@ -54,7 +54,7 @@
     "conversations":[
         {
             "idUser1": 1,
-            "idUser2": 2,
+            "id": 2,
             "messages":[
                 {
                     "sentBy": 1,
@@ -88,7 +88,7 @@
         },
         {
             "idUser1": 1,
-            "idUser2": 4,
+            "id": 4,
             "messages":[
                 {
                     "sentBy": 1,
@@ -122,7 +122,7 @@
         },
         {
             "idUser1": 1,
-            "idUser2": 5,
+            "id": 5,
             "messages":[
                 {
                     "sentBy": 1,
